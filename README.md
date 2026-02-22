@@ -5,7 +5,7 @@
 现居大陆5年了，普通的初二牲一只捏  
 
 ## 雾小蒜の小窝
-这是咱的[小窝](https://wuxiao.us.kg/?from=github.com)  
+这是咱的[小窝](https://ciallovo.top/?from=github.com)  
 
 ## 兴趣和特长
 ~~喜欢吃电脑~~，罗小黑死粉！  
