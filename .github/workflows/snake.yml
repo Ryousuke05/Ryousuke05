@@ -1,3 +1,4 @@
+# 这是小蒜优化过的版本哦，支持Node 24，还有GITHUB_TOKEN权限问题~
 name: 贪吃蛇喵~
 
 on:
@@ -10,7 +11,10 @@ on:
 
 permissions:
   contents: write
-
+  
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+  
 jobs:
   generate:
     runs-on: ubuntu-latest
