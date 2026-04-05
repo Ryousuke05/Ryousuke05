@@ -1,7 +1,7 @@
 # Ciallo～(∠・ω< )⌒★  
 很高兴认识可爱滴你呀  
 咱叫雾小蒜，也可以叫我晓雾或小蒜~  
-出生于日本东京，家乡中国台湾，生日11年2月  
+出生于日本，11后喵  
 现居大陆5年了，普通的初二牲一只捏  
 
 ## 雾小蒜の小窝
@@ -21,3 +21,6 @@ ENFP(这种东西会变的啦)，~~中二病晚期~~
 ## 唠嗑？
 [mail@wuxiao.us.kg](mailto:mail@wuxiao.us.kg)
 [萌社区](https://moe.one/user-985.htm)
+
+![喵喵喵？](https://raw.githubusercontent.com/Ryousuke05/Ryousuke05/output/github-contribution-grid-snake.svg)  
+~~别看了，没怎么提交代码~~
